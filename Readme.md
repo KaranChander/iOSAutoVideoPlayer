@@ -2,8 +2,7 @@
 > A simple table view design with social media like UI to present the implementation of auto video players using AVKit!
 
 # Preview
-![](https://drive.google.com/file/d/1lWHdwYzUHoGJG9Sp4EPADypYw2N2C3Xj/view?usp=share_link)
-
+![](https://drive.google.com/uc?id=1lWHdwYzUHoGJG9Sp4EPADypYw2N2C3Xj)
 
 ## Features
 
