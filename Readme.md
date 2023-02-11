@@ -1,0 +1,21 @@
+# iOS Auto Video Player
+> A simple table view design with social media like UI to present the implementation of auto video players using AVKit!
+
+# Preview
+![](https://lh3.googleusercontent.com/9iO6f3eOUWeGayFjLntn7v6yFNuXhTYTGinu9kStbMW121Ar4EL-PnLAglJwx2n6jGXwhEAAaGo0Wv2P__XMLGfiHKpcKBIKrXctD6FIcQwn-7tn3D6QwlLbm84E270ZOk3kGa3aHOw6W-9sPASH5_CQsBcAKhDrc-k7-gPMr9MAlwjLpXSGReMk68b_7eRq3wbKJg0ytSNQozy9JD25j5mNaexb2gqPEsaxdDoQCLFHT80S2e8A97cvDCvjqmyygnzooSB3cMmgbXsQllMxhI_ZzIYuHIiMzZ10Z1YNHgHfX9KTmGNeabQDcho_-YxG2J1nmPnZgtwqGMOPIZ_XICkntrpzbPUQCNrbxRhDqfOq-zSOYXZyNAoBY1MpD9r3OTpUfSZdyceTG2Pvu_5vlBsAd86brqg0F2-UQHSuqtkOoEaBYwGZyM7b0V8HO11EQUIRWmWWvKGPGOZhapWIrnj4oe4iwJ4VUziLvUjoT1qxYaByp9RYu4CeCGli1K7SJKHFmIGt_49V_uXTRiWBnMx-LTi-IsrkLqBgXY_p9lID-jMIJnlAXJJG9ZQEmQBfKDQ2mxU9Qcw61KN4EdVkXCAsChUPYs4DZTfJAHTyZiO8d_5YYa2rPyhwpIDbO8zs31qYutQugRHrMfahAMrFIoLvctNIuGPzCyJDe228Cp0rIeiCXpTenXPyzh2Ep4h2RIeqB3O69gBYag8VCfle8cG5G-fL7-3k3kK8fZVK5O_Z4rZqNtoQhjHUWLjXiqILHCer1gW95Q6zhLMmUdlH1RgaMTo6MHHNaNhcSvZ2ds9hRgM317XEXw30hdSvCBRRGlNzw3HxhyWXbuawBN20U32qQItCAWDWZSrzPlniLmpCm0m4E4Rft6yWN28M92W3PqgY434JR3z4X4ehrjGo4Gv2KZzk6ZyCVEXXKqIf9QyF3FqgDfJCm-5HXYjjMaIT07oR-eNCXk4vMhyHN_47IHTWi1PH_c4Q9eRR7Ih_mo41IvlRlmaMXQ=w600-h1299-no?authuser=0)
+
+
+## Features
+
+- Plays video from a streaming URL 
+- Videos are cached and the resumability is maintained too
+- Easily customisable
+- Video player controller handles all the play and pause functionality
+
+## Tech
+
+- UIKitStoryboardUI]
+- AVKit
+- XCode 
+- Swift 5
+
