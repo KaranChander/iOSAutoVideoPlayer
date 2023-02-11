@@ -14,7 +14,7 @@
 
 ## Tech
 
-- UIKitStoryboardUI]
+- UIKitStoryboardUI
 - AVKit
 - XCode 
 - Swift 5
